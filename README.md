@@ -1,11 +1,11 @@
-![Cover Image](githubcover-01.png)
+![Cover Image](githubcover-001.png)
 
 <h1 align="center">Hi there, I'm Mehedi 👋</h1>
 
 <div align="center">
-  <h3>A MERN Stack Developer 🚀</h3>
+  <h3>A Junior Frontend Developer 🚀</h3>
   
-  <img align="center" src="https://readme-typing-svg.herokuapp.com/?lines=I+am+Mehedi,+a+MERN+Stack+Developer;I+build+responsive+web+apps" alt="Typing SVG">
+  <img align="center" src="https://readme-typing-svg.herokuapp.com/?lines=I+am+Mehedi,+a+Junior+Fronted+Developer;I+build+responsive+web+apps" alt="Typing SVG">
   
 </div>
 
@@ -15,13 +15,13 @@
 I am a Frontend Developer. I specialize in HTML, CSS, JavaScript, Tailwind CSS, and React.js, building responsive and dynamic web applications..
 <br/>
   <h3>🖥️ Tech Stack</h3>
-🔹 HTML, CSS, JavaScript, Tailwind CSS, React.js <br/>
-🔹 UI Libraries: DaisyUI, ShadCN <br/>
-🔹 Backend & APIs: Node.js, Express.js, REST APIs <br/>
-🔹 Database: MongoDB, Firebase <br/>
-🔹 Version Control: Git & GitHub <br/>
-🔹 Other Skills: Responsive Design, UI/UX, API Integration <br/>
-🔹 Additional Expertise: Geoinformatics (Spatial Data Analysis) <br/>
+🔹Frontend: HTML5, CSS3, JavaScript (ES6+), React.js, Tailwind CSS
+
+🔹Authentication & Hosting: Firebase Auth, Firebase Hosting, Netlify
+
+🔹Version Control: Git & GitHub
+
+🔹Currently Learning: Node.js (Backend Development)
  <br/>
 
  ---
