@@ -1,9 +1,9 @@
 ![Cover Image](githubcover-001.png)
 
-<h1 align="center">Hi there, I'm Mehedi 👋</h1>
+<h3 align="center">Hi there, I'm Mehedi 👋</h3>
 
 <div align="center">
-  <h3>A Junior Frontend Developer 🚀</h3>
+  <h2>A Junior Frontend Developer 🚀</h2>
   
   <img align="center" src="https://readme-typing-svg.herokuapp.com/?lines=I+am+Mehedi,+a+Junior+Fronted+Developer;I+build+responsive+web+apps" alt="Typing SVG">
   
@@ -41,13 +41,13 @@ I am a Frontend Developer. I specialize in HTML, CSS, JavaScript, Tailwind CSS, 
 ## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:**
 <div align="center">
 
- ![](https://github-readme-streak-stats.herokuapp.com/?user=mahdi33-gk&theme=holi&hide_border=false)
+ ![](https://github-readme-streak-stats.herokuapp.com/?user=mehediScriptDev&theme=holi&hide_border=false)
  
  <br/>
 
-![](https://github-readme-stats.vercel.app/api?username=mahdi33-gk&theme=holi&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=mehediScriptDev&theme=holi&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mahdi33-gk&count_private=true&theme=holi&hide_border=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mehediScriptDev&count_private=true&theme=holi&hide_border=false&layout=compact)
 
 
 </div>
