@@ -21,7 +21,7 @@ I am a Frontend Developer. I specialize in HTML, CSS, JavaScript, Tailwind CSS, 
 
 🔹Version Control: Git & GitHub
 
-🔹Currently Learning: Node.js (Backend Development)
+🔹Currently Learning: Backend Development and Next.js
  <br/>
 
  ---
