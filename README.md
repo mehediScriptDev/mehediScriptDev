@@ -1,73 +1,120 @@
-![Cover Image](githubcover-001.png)
-
-<h3 align="center">Hi there, I'm Mehedi 👋</h3>
-
 <div align="center">
-  <h2>A Junior Frontend Developer 🚀</h2>
   
-  <img align="center" src="https://readme-typing-svg.herokuapp.com/?lines=I+am+Mehedi,+a+Junior+Fronted+Developer;I+build+responsive+web+apps" alt="Typing SVG">
-  
+# 👋 Hi, I'm Mehedi!
+
+### 🚀 Junior MERN Stack Developer | Building Modern Web Applications
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer+%F0%9F%92%BB;Building+Responsive+Web+Apps+%F0%9F%8C%90;Always+Learning+New+Technologies+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+
 </div>
 
-###
-<h2>👨‍💻 About Me</h2>
-<p align="left">
-I am a Frontend Developer. I specialize in HTML, CSS, JavaScript, Tailwind CSS, and React.js, building responsive and dynamic web applications..
+---
+
+## 👨‍💻 About Me
+
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+- 🎓 Pursuing **Diploma in Computer Science & Technology (CST)**
+- 💼 **Junior MERN Stack Developer** passionate about building modern web apps
+- 🌱 Currently learning **Next.js** and **Prisma**
+- 🎯 Focused on mastering **full-stack development**
+- 💡 Love solving coding challenges and exploring innovative designs
+- 📫 Reach me: **meheduvau@gmail.com**
+
+<br clear="both">
+
+---
+
+## �️ Tech Stack
+
+### 🎨 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### � Authentication & Deployment
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+
+### 🧰 Tools & Others
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+### 📚 Currently Learning
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mehediScriptDev&theme=tokyonight&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D)
+
 <br/>
-  <h3>🖥️ Tech Stack</h3>
-🔹Frontend: HTML5, CSS3, JavaScript (ES6+), React.js, Tailwind CSS
 
-🔹Authentication & Hosting: Firebase Auth, Firebase Hosting, Netlify
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mehediScriptDev&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true&include_all_commits=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehediScriptDev&theme=tokyonight&hide_border=true&border_radius=10&layout=compact&langs_count=8" />
 
-🔹Version Control: Git & GitHub
+<br/>
 
-🔹Currently Learning: Backend Development and Next.js
- <br/>
-
- ---
-
-🔭 I’m currently pursuing a Diploma in Engineering, specializing in Computer Science and Technology (CST).  <br/>
-📚 I'm learning web development and related technologies to build a strong foundation for my future career.  <br/>
-⚡ In my free time, I enjoy solving coding challenges, exploring innovative web design, and staying updated with the latest tech trends.  <br/>
-
-</p>
-
----
-
-
-
- 
-  
-## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> **Github Stats:**
-<div align="center">
-
- ![](https://github-readme-streak-stats.herokuapp.com/?user=mehediScriptDev&theme=holi&hide_border=false)
- 
- <br/>
-
-![](https://github-readme-stats.vercel.app/api?username=mehediScriptDev&theme=holi&hide_border=false&include_all_commits=true&count_private=true)<br/>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mehediScriptDev&count_private=true&theme=holi&hide_border=false&layout=compact)
-
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mehediScriptDev&theme=tokyo-night&hide_border=true&border_radius=10&area=true)
 
 </div>
 
 ---
 
+## 🏆 GitHub Trophies
 
+<div align="center">
 
+![](https://github-profile-trophy.vercel.app/?username=mehediScriptDev&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1&column=7)
 
+</div>
 
+---
 
+## 🤝 Connect With Me
 
-<h3> 🤝🏻 Connect with Me </h3>
+<div align="center">
 
-<p align="center">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehedi-mehedi-09a088349)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mehediScript404/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:meheduvau@gmail.com)
 
-<a href="https://www.linkedin.com/in/mehedi-mehedi-09a088349?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img alt="LinkedIn" src="https://img.shields.io/badge/Mehedi./linkedIn-brightgreen?style=flat-square&logo=linkedin"></a>
-<a href="https://www.facebook.com/mehediScript404/"><img alt="Facebook" src="https://img.shields.io/badge/MEHEDI/facebook-blue?style=flat&logo=facebook"></a>
-<a href="mailto:meheduvau@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-meheduvau@gmail.com-blue?style=flat-square&logo=gmail"></a>
-</p>
+</div>
+
+---
+
+<div align="center">
+  
+### 💭 Quote of the Day
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+### 👁️ Profile Views
+
+![](https://komarev.com/ghpvc/?username=mehediScriptDev&color=blueviolet&style=for-the-badge)
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+
+### ⭐ Show some love by starring some repositories!
+
+</div>
+
 
 <!--
 **mahdi33-gk/mahdi33-gk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
