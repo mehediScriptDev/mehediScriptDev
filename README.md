@@ -17,7 +17,7 @@
 - 🌱 Currently learning **Next.js** and **Prisma**
 - 🎯 Focused on mastering **full-stack development**
 - 💡 Love solving coding challenges and exploring innovative designs
-- 📫 **Email:** mehedi25122003@gmail.com
+- 📫 **Email:** mehediscript404@gmail.com
 
 ---
 
