@@ -39,11 +39,9 @@
 
 ### 🔐 Authentication
 <div align="center">
-
-[![JWT](https://www.vectorlogo.zone/logos/json_web_token/json_web_token-icon.svg)](https://jwt.io/)
+<img src="https://www.vectorlogo.zone/logos/json_web_token/json_web_token-icon.svg" width="48" alt="JWT" />
 &nbsp;&nbsp;
 [![Firebase](https://skillicons.dev/icons?i=firebase)](https://firebase.google.com/)
-
 </div>
 
 ---
@@ -51,7 +49,7 @@
 ### ☁️ Hosting & Deployment
 <div align="center">
 
-[![Hosting](https://skillicons.dev/icons?i=vercel,netlify)](https://skillicons.dev)
+[![Hosting](https://skillicons.dev/icons?i=vercel,netlify,firebase)](https://skillicons.dev)
 
 </div>
 
