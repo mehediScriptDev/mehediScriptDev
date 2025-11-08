@@ -26,7 +26,7 @@
 
 </div>
 
----
+
 
 ### ⚙️ Backend
 <div align="center">
@@ -35,15 +35,15 @@
 
 </div>
 
----
+
 
 ### 🔐 Authentication
 <p align="center">
-**JWT** &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=firebase" width="48" alt="Firebase" />
+<img src="https://skillicons.dev/icons?i=firebase" width="48" alt="Firebase" /> <img src="https://seeklogo.com/images/J/json-web-tokens-jwt-io-logo-C003DEC47A-seeklogo.com.png" width="48" alt="jwt" />
 </p>
 
 
----
+
 
 ### ☁️ Hosting & Deployment
 <div align="center">
@@ -52,7 +52,7 @@
 
 </div>
 
----
+
 
 ### 🧰 Tools
 <div align="center">
@@ -61,7 +61,7 @@
 
 </div>
 
----
+
 
 ### 💻 Operating Systems
 <div align="center">
@@ -70,7 +70,7 @@
 
 </div>
 
----
+
 
 ### 🔄 Version Control
 <div align="center">
@@ -79,7 +79,7 @@
 
 </div>
 
----
+
 
 ---
 
@@ -108,7 +108,7 @@
 [![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/mehediscript_x)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mehedi25122003@gmail.com)
 <br/>
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/mehediScriptDev)
+[![Sponsor me on GitHub](https://img.shields.io/badge/Sponsor-ea4aaa?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/mehediScriptDev)
 
 </div>
 
