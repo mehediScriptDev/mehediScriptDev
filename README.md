@@ -39,8 +39,7 @@
 
 ### 🔐 Authentication
 <div align="center">
-<img src="https://www.vectorlogo.zone/logos/json_web_token/json_web_token-icon.svg" width="48" alt="JWT" />
-&nbsp;&nbsp;
+**JWT** &nbsp;&nbsp;
 [![Firebase](https://skillicons.dev/icons?i=firebase)](https://firebase.google.com/)
 </div>
 
