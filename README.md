@@ -1,10 +1,8 @@
 <div align="center">
   
-# 👋 Hi, I'm Mehedi!
+# 👋 Hey, I'm Mehedi!
 
 ### Junior MERN Stack Developer | Building Modern Web Applications
-
-![Profile Views](https://komarev.com/ghpvc/?username=mehediScriptDev&color=blueviolet&style=flat-square)
 
 </div>
 
@@ -12,31 +10,19 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Pursuing **Diploma in Computer Science & Technology (CST)**
-- 💼 **Junior MERN Stack Developer** passionate about building modern web applications
-- 🌱 Currently learning **Next.js** and **Prisma**
+- 🌱 Currently learning **TypeScript** and **Prisma**
 - 🎯 Focused on mastering **full-stack development**
 - 💡 Love solving coding challenges and exploring innovative designs
-- 📫 **Email:** mehedi25122003@gmail.com
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Frontend**  
-HTML5, CSS3, JavaScript, React, Tailwind CSS
+<div align="center">
 
-**Backend**  
-Node.js, Express.js, MongoDB
+[![My Tech Stack](https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,jwt,firebase,vercel,netlify,git,github,vscode,nextjs)](https://skillicons.dev)
 
-**Authentication & Deployment**  
-JWT, Firebase, Vercel, Netlify
-
-**Tools**  
-Git, GitHub, VS Code
-
-**Currently Learning**  
-Next.js, Prisma
+</div>
 
 ---
 
@@ -56,23 +42,15 @@ Next.js, Prisma
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=mehediScriptDev&theme=tokyonight&no-frame=true&margin-w=4&row=1&column=6)
-
-</div>
-
----
-
 ## 🤝 Connect With Me
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mehedi-mehedi-09a088349)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mehediScript404/)
+[![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/mehediscript_x)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mehedi25122003@gmail.com)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/mehediScriptDev)
 
 </div>
 
