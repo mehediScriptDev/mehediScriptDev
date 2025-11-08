@@ -35,8 +35,6 @@
 </div>
 
 
-
-
 <p align="center">
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" width="60" alt="JWT" />
 </p>
@@ -106,8 +104,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mehediScript404/)
 [![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/mehediscript_x)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mehedi25122003@gmail.com)
-<br/>
-[![Sponsor me on GitHub](https://img.shields.io/badge/Sponsor-ea4aaa?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/mehediScriptDev)
+
 
 </div>
 
