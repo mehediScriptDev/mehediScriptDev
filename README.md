@@ -28,7 +28,7 @@
 
 
 
-### ⚙️ Backend
+
 <div align="center">
 
 [![Backend Stack](https://skillicons.dev/icons?i=nodejs,express,mongodb,prisma)](https://skillicons.dev)
@@ -37,15 +37,16 @@
 
 
 
-### 🔐 Authentication
+
 <p align="center">
-<img src="https://skillicons.dev/icons?i=firebase" width="48" alt="Firebase" /> <img src="https://seeklogo.com/images/J/json-web-tokens-jwt-io-logo-C003DEC47A-seeklogo.com.png" width="48" alt="jwt" />
+  <img src="https://skillicons.dev/icons?i=firebase" width="48" alt="Firebase" />
+  <img src="https://skillicons.dev/icons?i=jwt" width="48" alt="JWT" />
 </p>
 
 
 
 
-### ☁️ Hosting & Deployment
+
 <div align="center">
 
 [![Hosting](https://skillicons.dev/icons?i=vercel,netlify,firebase)](https://skillicons.dev)
@@ -54,7 +55,7 @@
 
 
 
-### 🧰 Tools
+
 <div align="center">
 
 [![Tools](https://skillicons.dev/icons?i=vscode,postman)](https://skillicons.dev)
@@ -63,7 +64,7 @@
 
 
 
-### 💻 Operating Systems
+
 <div align="center">
 
 [![OS](https://skillicons.dev/icons?i=linux,apple)](https://skillicons.dev)
@@ -72,7 +73,7 @@
 
 
 
-### 🔄 Version Control
+
 <div align="center">
 
 [![Version Control](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
