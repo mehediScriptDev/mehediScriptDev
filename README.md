@@ -31,7 +31,7 @@
 
 <div align="center">
 
-[![Backend Stack](https://skillicons.dev/icons?i=nodejs,express,mongodb,prisma)](https://skillicons.dev)
+[![Backend Stack](https://skillicons.dev/icons?i=nodejs,express,mongodb)](https://skillicons.dev)
 
 </div>
 
@@ -39,8 +39,7 @@
 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=firebase" width="48" alt="Firebase" />
-  <img src="https://skillicons.dev/icons?i=jwt" width="48" alt="JWT" />
+  <img src="https://api.iconify.design/vscode-icons/file-type-jwt.svg" width="48" alt="JWT" />
 </p>
 
 
