@@ -16,13 +16,73 @@
 
 ---
 
+
 ## 🛠️ Tech Stack
 
+### 🎨 Frontend
 <div align="center">
 
-[![My Tech Stack](https://skillicons.dev/icons?i=html,css,js,react,tailwind,nodejs,express,mongodb,jwt,firebase,vercel,netlify,git,github,vscode,nextjs)](https://skillicons.dev)
+[![Frontend Stack](https://skillicons.dev/icons?i=html,css,js,react,tailwind,nextjs)](https://skillicons.dev)
 
 </div>
+
+---
+
+### ⚙️ Backend
+<div align="center">
+
+[![Backend Stack](https://skillicons.dev/icons?i=nodejs,express,mongodb,prisma)](https://skillicons.dev)
+
+</div>
+
+---
+
+### 🔐 Authentication
+<div align="center">
+
+[![JWT](https://www.vectorlogo.zone/logos/json_web_token/json_web_token-icon.svg)](https://jwt.io/)
+&nbsp;&nbsp;
+[![Firebase](https://skillicons.dev/icons?i=firebase)](https://firebase.google.com/)
+
+</div>
+
+---
+
+### ☁️ Hosting & Deployment
+<div align="center">
+
+[![Hosting](https://skillicons.dev/icons?i=vercel,netlify)](https://skillicons.dev)
+
+</div>
+
+---
+
+### 🧰 Tools
+<div align="center">
+
+[![Tools](https://skillicons.dev/icons?i=vscode,postman)](https://skillicons.dev)
+
+</div>
+
+---
+
+### 💻 Operating Systems
+<div align="center">
+
+[![OS](https://skillicons.dev/icons?i=linux,apple)](https://skillicons.dev)
+
+</div>
+
+---
+
+### 🔄 Version Control
+<div align="center">
+
+[![Version Control](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
+
+</div>
+
+---
 
 ---
 
@@ -50,6 +110,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mehediScript404/)
 [![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/mehediscript_x)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mehedi25122003@gmail.com)
+<br/>
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/mehediScriptDev)
 
 </div>
