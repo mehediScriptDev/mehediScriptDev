@@ -19,7 +19,6 @@
 
 ## 🛠️ Tech Stack
 
-### 🎨 Frontend
 <div align="center">
 
 [![Frontend Stack](https://skillicons.dev/icons?i=html,css,js,react,tailwind,nextjs)](https://skillicons.dev)
@@ -39,7 +38,7 @@
 
 
 <p align="center">
-  <img src="https://api.iconify.design/vscode-icons/file-type-jwt.svg" width="48" alt="JWT" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" width="60" alt="JWT" />
 </p>
 
 
