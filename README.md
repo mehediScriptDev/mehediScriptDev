@@ -38,10 +38,10 @@
 ---
 
 ### 🔐 Authentication
-<div align="center">
-**JWT** &nbsp;&nbsp;
-[![Firebase](https://skillicons.dev/icons?i=firebase)](https://firebase.google.com/)
-</div>
+<p align="center">
+**JWT** &nbsp;&nbsp; <img src="https://skillicons.dev/icons?i=firebase" width="48" alt="Firebase" />
+</p>
+
 
 ---
 
