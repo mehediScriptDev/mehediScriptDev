@@ -10,7 +10,7 @@
 
 ## 👨‍💻 About Me
 
-- 🌱 Currently learning **TypeScript** and **Prisma**
+- 🌱 Currently learning **TypeScript** and **Nextjs**
 - 🎯 Focused on mastering **full-stack development**
 - 💡 Love solving coding challenges and exploring innovative designs
 
@@ -21,7 +21,7 @@
 
 <div align="center">
 
-[![Frontend Stack](https://skillicons.dev/icons?i=html,css,js,react,tailwind,nextjs)](https://skillicons.dev)
+[![Frontend Stack](https://skillicons.dev/icons?i=html,css,js,react,typescript,tailwind,nextjs)](https://skillicons.dev)
 
 </div>
 
