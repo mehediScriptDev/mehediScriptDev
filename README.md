@@ -88,9 +88,9 @@
 
 <br/>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mehediScriptDev&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true&include_all_commits=true)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=mehediscriptdev&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true&include_all_commits=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mehediScriptDev&theme=tokyonight&hide_border=true&border_radius=10&layout=compact&langs_count=6)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mehediscriptdev&theme=tokyonight&hide_border=true&border_radius=10&layout=compact&langs_count=6)
 
 </div>
 
