@@ -87,8 +87,9 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mehediScriptDev&theme=tokyonight&hide_border=true&border_radius=10)
 
 <br/>
-![GitHub Streak](https://streak-stats.demolab.com?user=mehediscriptdev&theme=dark)
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mehediScriptDev&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true&include_all_commits=true)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mehediScriptDev&theme=tokyonight&hide_border=true&border_radius=10&layout=compact&langs_count=6)
 
 </div>
