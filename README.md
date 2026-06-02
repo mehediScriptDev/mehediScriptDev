@@ -88,8 +88,7 @@
 
 <br/>
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/mehediscriptdev?cardType=github&theme=github-dark&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mehediScriptDev&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&count_private=true&include_all_commits=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mehediScriptDev&theme=tokyonight&hide_border=true&border_radius=10&layout=compact&langs_count=6)
 
 </div>
