@@ -25,15 +25,12 @@
 </div>
 
 
-
-
 <div align="center">
+
 [![Backend Stack](https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres)](https://skillicons.dev)
+
 </div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-</p>
 
 
 <div align="center">
