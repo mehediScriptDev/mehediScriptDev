@@ -2,7 +2,7 @@
   
 # 👋 Hey, I'm Mehedi!
 
-### Junior MERN Stack Developer | Building Modern Web Applications
+### MERN Stack Developer | Building Modern Web Applications
 
 </div>
 
@@ -12,8 +12,7 @@
 
 - 🌱 Currently learning **PERN**
 - 🎯 Focused on mastering **full-stack development**
-- 💡 Love solving coding challenges and exploring innovative designs
-
+- 🐄 Fun fact: I genuinely enjoy taking care of animals, it's my kind of therapy
 ---
 
 
@@ -29,18 +28,12 @@
 
 
 <div align="center">
-
-[![Backend Stack](https://skillicons.dev/icons?i=nodejs,express,mongodb)](https://skillicons.dev)
-
+[![Backend Stack](https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres)](https://skillicons.dev)
 </div>
 
-
 <p align="center">
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" width="60" alt="JWT" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
 </p>
-
-
-
 
 
 <div align="center">
